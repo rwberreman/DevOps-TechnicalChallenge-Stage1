@@ -1,0 +1,6 @@
+Task scheduler could be used to run this script weekly at 9am NZST.
+
+How I would do this:
+
+Convert this Python script into an .exe
+Create a Windows scheduled task to run the .exe each Sunday at 9pm UTC
